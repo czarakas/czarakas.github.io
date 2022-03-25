@@ -1,5 +1,12 @@
 title	type	url_slug	venue	date	location	talk_url	description
-Talk 1 on Relevant Topic in Your Field	Talk	talk-1	UC San Francisco, Department of Testing	2012-03-01	San Francisco, California		This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Tutorial 1 on Relevant Topic in Your Field	Tutorial	tutorial-1	UC-Berkeley Institute for Testing Science	2013-03-01	Berkeley CA, USA	http://exampleurl.com	This is a description of your tutorial, note the different field in type. This is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Talk 2 on Relevant Topic in Your Field	Talk	talk-2	London School of Testing	2014-02-01	London, UK	http://example2.com	This is a description of your talk, which is a markdown files that can be all markdown-ified like any other post. Yay markdown!
-Conference Proceeding talk 3 on Relevant Topic in Your Field	Conference proceedings talk	talk-3	Testing Institute of America 2014 Annual Conference	2014-03-01	Los Angeles, CA		This is a description of your conference proceedings talk, note the different field in type. You can put anything in this field.
+Implications of Land-Use and Land-Management Changes for Nitrogen Losses in South American Ecosystems	Poster	AGU-2015	American Geophysical Union Fall Meeting	2015-12-16	"San Francisco, California"		
+How Much Does Plants' Response to Elevated CO2 Influence the Transient Climate Response?	Poster	AGU-2019	American Geophysical Union Fall Meeting	2019-12-19	"San Francisco, California"		
+Plant Physiology Increases the Magnitude and Spread of the Transient Climate Response in CMIP6 Earth System Models	Talk	DOE-RGMA-2020	DOE RGMA Meeting	2020-10-13	Virtual		
+Plant Physiology Increases the Magnitude and Spread of the Transient Climate Response in CMIP6 Earth System Models	Poster	GCC-2020	Graduate Climate Conference	2020-11-01	Virtual		
+Parsing Apart the Relative Impacts of Temperature and VPD on Tropical Forest GPP	Talk	CESM-LMWG-2021	CESM Land Model and Biogeochemistry Working Group Meeting	2021-02-24	Virtual		
+Disentangling the Relative Impacts of Temperature and VPD on Tropical Forest GPP	Talk	NGEET-2021	NGEE-Tropics Annual Meeting	2021-06-08	Virtual		
+Plant Physiological Responses to CO2 Influence the Transient Climate Response in CMIP6 Earth System Models	Invited Talk	RUBISCO-2021	RUBISCO Biogeochemistry Science Friday	2021-07-23	Virtual	https://www.youtube.com/watch?v=e9D9UAFFXAE	
+Biophysical Implications of Plant Physiological Responses to Increasing CO2 in CMIP6 Models	Invited Talk	UNSW-2021	"Land-Atmosphere Seminar Series, University of New South Wales, Australia"	2021-07-28	Virtual		
+Disentangling the Relative Impacts of Temperature and VPD on Tropical Forest GPP	Invited Talk	NCAR-NEON-2021	NCAR-NEON Workshop	2021-11-09	Virtual		
+Disentangling the Relative Impacts of Temperature and VPD on Tropical Forest GPP using a Demographic Ecosystem Model	Poster	AGU-2021	American Geophysical Union Fall Meeting	2021-12-16	"New Orleans, LA"		
+Atmospheric Feedbacks Mediate Plant Traits’ Influence on Land Surface Fluxes	Talk	CESM-LMWG-2022	CESM Land Model and Biogeochemistry Working Group Meeting	2022-02-03	Virtual	https://www.youtube.com/watch?v=Dg1sv1NP3jk&t=5128s	
