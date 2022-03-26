@@ -15,7 +15,7 @@
   }
 
   a {
-    text-decoration: underline;
+    text-decoration: none;
 
     &:hover {
       text-decoration: underline;
@@ -80,7 +80,7 @@
   }
 
   .archive__item-title {
-    text-decoration: underline;
+    text-decoration: none;
   }
 }
 
@@ -121,7 +121,7 @@
 
   .archive__item-title {
     margin-top: 0.5em;
-    font-size: $type-size-5;
+    font-size: $type-size-4;
   }
 
   .archive__item-excerpt {

@@ -8,6 +8,14 @@ redirect_from:
 ---
 [Download CV here](http://academicpages.github.io/files/paper1.pdf)
 
+<b>Contact</b>
+Claire Zarakas
+PhD Candidate
+Department of Atmospheric Sciences
+University of Washington
+
+czarakas@uw.edu
+
 {% include base_path %}
 
 <!--- Publications
