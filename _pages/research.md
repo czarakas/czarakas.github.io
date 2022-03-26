@@ -4,27 +4,6 @@ title: "Research"
 author_profile: true
 ---
 
-## Questions
+I am a climate scientist, and I study interactions between plants and the atmosphere. I am especially interested in understanding how plants respond to increasing CO<sub>2</sub> and climate change, and how those plant responses in turn influence the Earth system by altering land energy and water fluxes. Climate models are the primary tool for much of my research - I run model experiments to learn about the mechanisms through which plants interact with the atmosphere, and I analyze climate model simulations from the Coupled Model Intercomparison Project (CMIP) to explore the drivers of uncertainty across models. I also analyze ecological and atmospheric data at multiple spatial scales, from site-level observations to global-scale remote sensing products.
 
-* Basic config options: _config.yml
-* Top navigation bar config: _data/navigation.yml
-* Single pages: _pages/
-* Collections of pages are .md or .html files in:
-  * _publications/
-  * _portfolio/
-  * _posts/
-  * _teaching/
-  * _talks/
-* Footer: _includes/footer.html
-* Static files (like PDFs): /files/
-* Profile image (can set in _config.yml): images/profile.png
-
-## Tools
-
-* Name a file ".md" to have it render in markdown, name it ".html" to render in HTML.
-* Go to the [commit list](https://github.com/academicpages/academicpages.github.io/commits/master) (on your repo) to find the last version Github built with Jekyll. 
-  * Green check: successful build
-  * Orange circle: building
-  * Red X: error
-  * No icon: not built
 
