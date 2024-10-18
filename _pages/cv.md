@@ -10,11 +10,10 @@ Download CV [here](http://czarakas.github.io/files/Zarakas_CV.pdf) and non-acade
 
 <b>Contact</b>\
 Claire Zarakas\
-PhD Candidate\
-Department of Atmospheric Sciences\
-University of Washington\
+Schmidt Science Fellow\
+CarbonPlan and University of California, Irvine\
 \
-czarakas@uw.edu
+czarakas@schmidtsciencefellows.org
 
 {% include base_path %}
 
