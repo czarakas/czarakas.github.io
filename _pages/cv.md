@@ -6,7 +6,7 @@ author_profile: true
 redirect_from:
   - /resume
 ---
-Download CV [here](http://czarakas.github.io/files/Zarakas_CV.pdf) and non-academic resume [here](http://czarakas.github.io/files/Zarakas_Resume_Nonacademic.pdf).
+Download CV [here](http://czarakas.github.io/files/Zarakas_CV.pdf) and non-academic resume [here](http://czarakas.github.io/files/Zarakas_Resume_Nonacademic.pdf) (last updated March 2022).
 
 <b>Contact</b>\
 Claire Zarakas\
